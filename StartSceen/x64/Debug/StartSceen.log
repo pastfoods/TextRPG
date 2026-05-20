@@ -1,0 +1,5 @@
+﻿  Battle.cpp
+C:\Users\pastfood\source\repos\TextRPG\StartSceen\Battle.cpp(28,9): warning C4101: 'damage': unreferenced local variable
+  MainMenu.cpp
+  Generating Code...
+  StartSceen.vcxproj -> C:\Users\pastfood\source\repos\TextRPG\x64\Debug\StartSceen.exe
